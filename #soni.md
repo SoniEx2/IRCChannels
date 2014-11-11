@@ -5,7 +5,7 @@ There are 3 main rules:
 
 1. Respect everyone
 2. Get others to follow this
-3. Respect network staff/rules
+3. Respect/follow network staff/rules
 
 ###Examples:
 
