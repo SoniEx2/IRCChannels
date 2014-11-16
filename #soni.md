@@ -1,7 +1,7 @@
 Channel Rules for #Soni @ EsperNet
 ==================================
 
-There are 3 main rules:
+There are 4 main rules:
 
 1. Respect everyone.
 2. Get others to follow this.
