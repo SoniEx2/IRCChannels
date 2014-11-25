@@ -1,10 +1,11 @@
 Channel Rules for Life
 ======================
 
-There are 2 main rules:
+There are 3 main rules:
 
 1. Respect everyone.
-2. Get others to follow this.
+2. Accept and support everyone until they harm others.
+3. Get others to follow this.
 
 ###Examples:
 
