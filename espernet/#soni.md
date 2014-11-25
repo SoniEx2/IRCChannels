@@ -1,12 +1,13 @@
 Channel Rules for #Soni @ EsperNet
 ==================================
 
-There are 4 main rules:
+There are 5 main rules:
 
 1. Respect everyone.
-2. Get others to follow this.
-3. This is a primarily SFW channel, avoid posting NSFW/NSFL content. NSFW/NSFL content MUST be tagged.
-4. Respect/follow network staff/rules.
+2. Accept and support everyone until they harm others.
+3. Get others to follow this.
+4. This is a primarily SFW channel, avoid posting NSFW/NSFL content. NSFW/NSFL content MUST be tagged.
+5. Respect/follow network staff/rules.
 
 ###Examples:
 
@@ -19,5 +20,11 @@ Good:
 
 > \<A\> Please don't call her that.  
 > \<B\> You don't get to say that. She told me she's fine with it.
+
+Bad:
+> \<P\> He's a pedo, kill him!
+
+Good:
+> \<P\> He's a pedo but he has never harmed anyone so I'm ok with him.
 
 <!-- todo terms of use -->
