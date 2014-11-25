@@ -19,4 +19,10 @@ Good:
 > \<A\> Please don't call her that.  
 > \<B\> You don't get to say that. She told me she's fine with it.
 
+Bad:
+> \<P\> He's a pedo, kill him!
+
+Good:
+> \<P\> He's a pedo but he has never harmed anyone so I'm ok with him.
+
 <!-- todo terms of use -->
