@@ -7,7 +7,7 @@ There are 5 main rules:
 2. Accept and support everyone until they harm others.
 3. Get others to follow this.
 4. This is a primarily SFW channel, avoid posting NSFW/NSFL content. NSFW/NSFL content MUST be tagged.
-5. Respect/follow network staff/rules.
+5. Respect/follow network staff/[rules](http://esper.net/charter.php).
 
 ###Examples:
 
