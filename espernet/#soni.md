@@ -1,30 +1,11 @@
 Channel Rules for #Soni @ EsperNet
 ==================================
 
-There are 5 main rules:
+There are a few simple rules:
 
-1. Respect everyone.
-2. Accept and support everyone until they harm others.
-3. Get others to follow this.
-4. This is a primarily SFW channel, avoid posting NSFW/NSFL content. NSFW/NSFL content MUST be tagged.
-5. Respect/follow network staff/[rules](http://esper.net/charter.php).
-
-###Examples:
-
-Bad:
-
-> \<A\> Please don't call me a bitch.  
-> \<B\> I'll call you whatever I want, bitch.
-
-Good:
-
-> \<A\> Please don't call her that.  
-> \<B\> You don't get to say that. She told me she's fine with it.
-
-Bad:
-> \<P\> He's a pedo, kill him!
-
-Good:
-> \<P\> He's a pedo but he has never harmed anyone so I'm ok with him.
+1. Act mature, especially in serious conversations. (Note: This is not a hard rule)
+2. Absolutely NO discrimination. This is a hard rule.
+3. This is a primarily SFW channel, avoid posting NSFW/NSFL content. Any NSFW/NSFL content MUST be tagged.
+4. Respect/follow network staff/[rules](http://esper.net/charter.php).
 
 <!-- todo terms of use -->
